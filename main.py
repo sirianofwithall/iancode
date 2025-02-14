@@ -1,7 +1,7 @@
 import tkinter as tk
 import random as rand
 
-# TODO: MAKE THE DAMN THING
+# EDIT: THIS IS THE WRONG VERSION IF YOUR SEEING THIS! I cant figure out how to delete it from the repository lol. the correct one is under iancode.py
 
 def encrypt():
 
